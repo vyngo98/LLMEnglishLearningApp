@@ -13,6 +13,9 @@ The application provides:
 * Weekly learning reports
 * Gamified learning experience
 
+[Watch the demo video here!](src/assets/video-demo.webm)
+![Demo-img](src/assets/Demo-img.png)
+
 ---
 
 ## Features
@@ -160,6 +163,8 @@ cd language-app
 
 ```bash
 npm install
+npm install lucide-react framer-motion
+npm install -D tailwindcss @tailwindcss/vite
 ```
 
 ### Start Frontend
@@ -226,7 +231,7 @@ Example request:
 
 ```json
 {
-  "model": "llama3",
+  "model": "llama3", # Change to your model name ex: qwen2:7b
   "messages": [
     {
       "role": "user",
