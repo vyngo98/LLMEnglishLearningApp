@@ -13,7 +13,7 @@ The application provides:
 * Weekly learning reports
 * Gamified learning experience
 
-[Watch the demo video here!](src/assets/video-demo.webm)
+![Watch the demo video here!](src/assets/video-demo.gif)
 ![Demo-img](src/assets/Demo-img.png)
 
 ---
